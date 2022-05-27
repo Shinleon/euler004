@@ -2,7 +2,7 @@
 Following a strange fascination, I decided to dig a bit into this problem.
 Both the language choice, implementation, and writing are inspired by
 https://adamdrake.com/an-unreasonably-deep-dive-into-project-euler-problem-4.html
-but I'll go a bit further and even bring up/implement a non-constand memory solution.
+but I'll go a bit further and even bring up/implement a non-constant memory solution.
 
 ## Main limitations (for rust).
 I don't have a big integer catch all numbers type of struct in rust.
