@@ -1,4 +1,4 @@
-# Project Euler 004
+# Project Euler 004 (unreasonably deep dive 2.0)
 Following a strange fascination, I decided to dig a bit into this problem.
 Both the language choice, implementation, and writing are inspired by
 https://adamdrake.com/an-unreasonably-deep-dive-into-project-euler-problem-4.html
